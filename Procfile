@@ -1,1 +1,1 @@
-web:python ns.py --port=$PORT 
+web:python app.py --port=$PORT 
