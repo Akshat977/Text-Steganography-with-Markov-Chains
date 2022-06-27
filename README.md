@@ -52,7 +52,7 @@ The flowchart for Decoding is as follows:
 [![flow2.png](https://i.postimg.cc/Zns08Lmv/flow2.png)](https://postimg.cc/CnDFYkzw)
 ## Try Out
 
-The project is deployed online and can be accessed [here] (https://seefirst1.herokuapp.com/)
+The project is deployed online and can be accessed [here.](https://seefirst1.herokuapp.com/)
 
 
 ## Screenshots
@@ -64,4 +64,5 @@ The project is deployed online and can be accessed [here] (https://seefirst1.her
 ## Authors
 
 - [Akshat Saxena](https://www.linkedin.com/in/akshat-saxena-6a3279188/)
+- 
 Email: akshatsaxena977@gmail.com
