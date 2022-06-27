@@ -3,3 +3,4 @@ Flask==2.1.0
 markov==0.4.0
 pywebio==1.6.0
 utils==1.0.1
+bigBitField
