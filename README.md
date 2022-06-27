@@ -52,8 +52,7 @@ The flowchart for Decoding is as follows:
 [![flow2.png](https://i.postimg.cc/Zns08Lmv/flow2.png)](https://postimg.cc/CnDFYkzw)
 ## Try Out
 
-The project is deployed online and can be accessed here:
-[link]
+The project is deployed online and can be accessed [here] (https://seefirst1.herokuapp.com/)
 
 
 ## Screenshots
